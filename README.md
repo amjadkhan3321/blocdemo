@@ -1,6 +1,8 @@
 # test_bloc_api_demo
 
-A new Flutter project.
+Bloc Flutter project. 
+
+We implemented the MVI (Model-View-Intent) pattern in our project, utilizing the BLoC (Business Logic Component) architecture for a structured and efficient application design.
 
 ## Getting Started
 
